@@ -1,20 +1,24 @@
 body {
-    background: pink;
+    background: rgb(77, 115, 167);
 }
 
 h1 {
-    color: red;
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
 }
 
 h3 {
-    background: white;
+    background: rgb(100, 188, 203);
     text-align: center;
 }
 
-.green-text {
-    color: green;
+.aqua-text {
+    color: rgb(46, 146, 200);
 }
 
-.green-text:hover {
-    color: red;
+.aqua-text:hover {
+    color: rgb(6, 0, 82);
 }
